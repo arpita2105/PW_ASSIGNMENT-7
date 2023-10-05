@@ -1,0 +1,42 @@
+nav{
+    width: 90%;
+    background-color: rgb(48,113,169);
+   padding: 35px;
+   margin: 30px;
+ }
+
+/* different border styles*/
+ .item1 {
+
+     border: 4px groove whitesmoke;
+ }
+
+ .item2 {
+
+border: 4px dashed whitesmoke;
+}
+
+.item3 {
+
+border: 4px inset whitesmoke;
+}
+
+.item4 {
+
+border: 4px double whitesmoke;
+}
+
+.item5 {
+
+border: 4px dotted whitesmoke;
+}
+
+ a{
+    color: white;
+   padding: 20px;
+
+    
+ }
+ a:hover{
+    color:chartreuse;
+ }

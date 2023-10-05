@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: blueviolet;
+}
+
+.dog{
+    position: relative;
+    margin: 50px;
+ }
+        
+img{
+    /* border radius 50% for circular image*/
+    border-radius: 50%;
+    height: 300px;
+    width: 30%;
+    margin-left: 50px;
+  }
+  .content{
+    color: aliceblue;
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  margin-left: 300px;
+  font-size: 20px;
+  text-align: center;  
+
+  }
+.h1{
+color:rgb(250, 213, 190);
+margin-top: 100px;
+}
+ 
+.button{
+box-shadow: 2px solid grey;
+}
